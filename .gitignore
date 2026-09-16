@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Coverage reports
+.coverage
+htmlcov/
+*.cover
+
+# Data files
+*.csv
+*.tsv
+*.sqlite
+*.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
